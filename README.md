@@ -1,5 +1,7 @@
 Because of the [announced retirement](https://www.microsoft.com/en-us/research/project/academic/articles/microsoft-academic-to-expand-horizons-with-community-driven-approach/) of the Microsoft Academic Website on Dec. 31 2021, I have archived the website and its contents.
 
+Documentation was archived using [this chrome extension](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en).
+
 I'm not sure how useful all of this is to the particular project, but I'm sure the [Microsoft Academic Graph data schema](<Microsoft Academic Graph data schema - Microsoft Academic Services _ Microsoft Docs (12_26_2021 9_31_01 AM).html>) will be useful. I just went ahead and archived all the pages to be safe. The table of contents below matches the sidebar navigation on the website.
 
 ## Table of Contents
